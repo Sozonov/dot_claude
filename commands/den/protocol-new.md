@@ -29,8 +29,8 @@
       - `log.md` — журнал работы.
       - `00-setup.md` — детальный план для первого шага.
       - Файлы `XX-{название шага}.md` — детальный план для каждого последующего шага, предусмотренного планом, где XX - это порядковый номер шага.
-      - Файл `technical-overview.md` - согласно инструкции в `~/.claude/docs/technicalOverview/technicalOverviewPrompt.md
-      - Файл `user-input.md` - согласно инструкции в `~/.claude/docs/userInput/userInputPrompt.md
+      - Файл `technical-overview.md` - согласно инструкции в `cat ~/.claude/docs/technicalOverview/technicalOverviewPrompt.md`
+      - Файл `user-input.md` - согласно инструкции в `cat ~/.claude/docs/userInput/userInputPrompt.md`
 
 6.  **Заполни файлы начальным содержимым:**
 
